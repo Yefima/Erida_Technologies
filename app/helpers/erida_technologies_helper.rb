@@ -1,0 +1,2 @@
+module EridaTechnologiesHelper
+end
